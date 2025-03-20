@@ -14,9 +14,10 @@ Acesse `localhost/devmarcondes.html` para ver a página do Enxo Pascal.
 Pare o conteiner com o comando:
 
 `docker compose down`
+
 # Modelos de sites HTML5 (para iniciantes e profissionais)
  
-> *Clique se você gosta do projeto. uas contribuições são calorosamente ♡ bem-vindas.*
+> *Faça um pix cel. 48996029392 se você gosta do projeto. uas contribuições são calorosamente ♡ bem-vindas.*
 
 <br/>
 
