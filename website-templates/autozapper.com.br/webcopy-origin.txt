@@ -1,0 +1,480 @@
+Uri: https://autozapper.com.br/
+File Name: C:\Downloaded Web Sites\autozapper.com.br\index.htm
+Content Type: text/html
+
+Uri: https://autozapper.com.br/comments/feed/
+File Name: C:\Downloaded Web Sites\autozapper.com.br\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://autozapper.com.br/feed/
+File Name: C:\Downloaded Web Sites\autozapper.com.br\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://autozapper.com.br/politicas-termos/
+File Name: C:\Downloaded Web Sites\autozapper.com.br\politicas-termos\index.htm
+Content Type: text/html
+
+Uri: https://autozapper.com.br/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.27.2
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/x-javascript
+
+Uri: https://autozapper.com.br/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.27.2
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://autozapper.com.br/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.27.2
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://autozapper.com.br/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.27.6
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://autozapper.com.br/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.27.6
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\elementor\assets\css\widget-divider.min.css
+Content Type: text/css
+
+Uri: https://autozapper.com.br/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.27.6
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://autozapper.com.br/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=3.27.6
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://autozapper.com.br/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.27.6
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://autozapper.com.br/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.27.6
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://autozapper.com.br/wp-content/plugins/elementor/assets/css/widget-menu-anchor.min.css?ver=3.27.6
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\elementor\assets\css\widget-menu-anchor.min.css
+Content Type: text/css
+
+Uri: https://autozapper.com.br/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.27.6
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\elementor\assets\css\widget-text-editor.min.css
+Content Type: text/css
+
+Uri: https://autozapper.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.27.6
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://autozapper.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.27.6
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://autozapper.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.27.6
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://autozapper.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=3.27.6
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\elementor\assets\lib\animations\styles\e-animation-grow.min.css
+Content Type: text/css
+
+Uri: https://autozapper.com.br/wp-content/plugins/pixelyoursite-pro/dist/scripts/jquery.bind-first-0.2.3.min.js?ver=6.7.2
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\pixelyoursite-pro\dist\scripts\jquery.bind-first-0.2.3.min.js
+Content Type: application/x-javascript
+
+Uri: https://autozapper.com.br/wp-content/plugins/pixelyoursite-pro/dist/scripts/js.cookie-2.1.3.min.js?ver=2.1.3
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\pixelyoursite-pro\dist\scripts\js.cookie-2.1.3.min.js
+Content Type: application/x-javascript
+
+Uri: https://autozapper.com.br/wp-content/plugins/pixelyoursite-pro/dist/scripts/public.js?ver=10.0.1.1
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\pixelyoursite-pro\dist\scripts\public.js
+Content Type: application/x-javascript
+
+Uri: https://autozapper.com.br/wp-content/plugins/pixelyoursite-super-pack/dist/scripts/public.js?ver=5.0.4
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\pixelyoursite-super-pack\dist\scripts\public.js
+Content Type: application/x-javascript
+
+Uri: https://autozapper.com.br/wp-content/plugins/presto-player/dist/components/web-components/p-20fd3adb.entry.js
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\presto-player\dist\components\web-components\p-20fd3adb.entry.js
+Content Type: application/x-javascript
+
+Uri: https://autozapper.com.br/wp-content/plugins/presto-player/dist/components/web-components/p-43f79dfb.js
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\presto-player\dist\components\web-components\p-43f79dfb.js
+Content Type: application/x-javascript
+
+Uri: https://autozapper.com.br/wp-content/plugins/presto-player/dist/components/web-components/p-5afaed0a.js
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\presto-player\dist\components\web-components\p-5afaed0a.js
+Content Type: application/x-javascript
+
+Uri: https://autozapper.com.br/wp-content/plugins/presto-player/dist/components/web-components/p-8fb42c61.entry.js
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\presto-player\dist\components\web-components\p-8fb42c61.entry.js
+Content Type: application/x-javascript
+
+Uri: https://autozapper.com.br/wp-content/plugins/presto-player/dist/components/web-components/p-afee75a6.js
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\presto-player\dist\components\web-components\p-afee75a6.js
+Content Type: application/x-javascript
+
+Uri: https://autozapper.com.br/wp-content/plugins/presto-player/src/player/player-static.js?ver=1737580765
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\plugins\presto-player\src\player\player-static.js
+Content Type: application/x-javascript
+
+Uri: https://autozapper.com.br/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.0.1
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://autozapper.com.br/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.0.1
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\themes\hello-elementor\header-footer.min.css
+Content Type: text/css
+
+Uri: https://autozapper.com.br/wp-content/themes/hello-elementor/style.min.css?ver=3.0.1
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://autozapper.com.br/wp-content/themes/hello-elementor/theme.min.css?ver=3.0.1
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://autozapper.com.br/wp-content/uploads/2024/03/cropped-1702569220-180x180.webp
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\uploads\2024\03\cropped-1702569220-180x180.webp
+Content Type: image/webp
+
+Uri: https://autozapper.com.br/wp-content/uploads/2024/03/cropped-1702569220-192x192.webp
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\uploads\2024\03\cropped-1702569220-192x192.webp
+Content Type: image/webp
+
+Uri: https://autozapper.com.br/wp-content/uploads/2024/03/cropped-1702569220-32x32.webp
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\uploads\2024\03\cropped-1702569220-32x32.webp
+Content Type: image/webp
+
+Uri: https://autozapper.com.br/wp-content/uploads/2025/01/Autozapper-Duvidas-leve.mp4
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\uploads\2025\01\Autozapper-Duvidas-leve.mp4
+Content Type: video/mp4
+
+Uri: https://autozapper.com.br/wp-content/uploads/2025/01/AUTOZAPPER-PRO-BANNER-PRECOS--300x100.webp
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\uploads\2025\01\AUTOZAPPER-PRO-BANNER-PRECOS--300x100.webp
+Content Type: image/webp
+
+Uri: https://autozapper.com.br/wp-content/uploads/2025/01/AUTOZAPPER-PRO-BANNER-PRECOS-.webp
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\uploads\2025\01\AUTOZAPPER-PRO-BANNER-PRECOS-.webp
+Content Type: image/webp
+
+Uri: https://autozapper.com.br/wp-content/uploads/2025/01/Depoimentos-Autozapper-leve.mp4
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\uploads\2025\01\Depoimentos-Autozapper-leve.mp4
+Content Type: video/mp4
+
+Uri: https://autozapper.com.br/wp-content/uploads/2025/01/Logo-autozapper-site-copiar-150x150.webp
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\uploads\2025\01\Logo-autozapper-site-copiar-150x150.webp
+Content Type: image/webp
+
+Uri: https://autozapper.com.br/wp-content/uploads/2025/01/Logo-autozapper-site-copiar-300x300.webp
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\uploads\2025\01\Logo-autozapper-site-copiar-300x300.webp
+Content Type: image/webp
+
+Uri: https://autozapper.com.br/wp-content/uploads/2025/01/Logo-autozapper-site-copiar-768x768.webp
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\uploads\2025\01\Logo-autozapper-site-copiar-768x768.webp
+Content Type: image/webp
+
+Uri: https://autozapper.com.br/wp-content/uploads/2025/01/Logo-autozapper-site-copiar.webp
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\uploads\2025\01\Logo-autozapper-site-copiar.webp
+Content Type: image/webp
+
+Uri: https://autozapper.com.br/wp-content/uploads/2025/01/mockup-lines-1024x1024.webp
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\uploads\2025\01\mockup-lines-1024x1024.webp
+Content Type: image/webp
+
+Uri: https://autozapper.com.br/wp-content/uploads/2025/01/mockup-lines-150x150.webp
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\uploads\2025\01\mockup-lines-150x150.webp
+Content Type: image/webp
+
+Uri: https://autozapper.com.br/wp-content/uploads/2025/01/mockup-lines-300x300.webp
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\uploads\2025\01\mockup-lines-300x300.webp
+Content Type: image/webp
+
+Uri: https://autozapper.com.br/wp-content/uploads/2025/01/mockup-lines-768x768.webp
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\uploads\2025\01\mockup-lines-768x768.webp
+Content Type: image/webp
+
+Uri: https://autozapper.com.br/wp-content/uploads/2025/01/mockup-lines.webp
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\uploads\2025\01\mockup-lines.webp
+Content Type: image/webp
+
+Uri: https://autozapper.com.br/wp-content/uploads/2025/01/selo-garantia-7-dias-small-copiar-300x295.webp
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\uploads\2025\01\selo-garantia-7-dias-small-copiar-300x295.webp
+Content Type: image/webp
+
+Uri: https://autozapper.com.br/wp-content/uploads/2025/01/selo-garantia-7-dias-small-copiar.webp
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\uploads\2025\01\selo-garantia-7-dias-small-copiar.webp
+Content Type: image/webp
+
+Uri: https://autozapper.com.br/wp-content/uploads/2025/01/seta-194x300.webp
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\uploads\2025\01\seta-194x300.webp
+Content Type: image/webp
+
+Uri: https://autozapper.com.br/wp-content/uploads/2025/01/seta.webp
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\uploads\2025\01\seta.webp
+Content Type: image/webp
+
+Uri: https://autozapper.com.br/wp-content/uploads/elementor/css/post-169.css?ver=1741465478
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\uploads\elementor\css\post-169.css
+Content Type: text/css
+
+Uri: https://autozapper.com.br/wp-content/uploads/elementor/css/post-172.css?ver=1741465234
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\uploads\elementor\css\post-172.css
+Content Type: text/css
+
+Uri: https://autozapper.com.br/wp-content/uploads/elementor/css/post-362.css?ver=1741465324
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-content\uploads\elementor\css\post-362.css
+Content Type: text/css
+
+Uri: https://autozapper.com.br/wp-includes/css/dist/block-library/style.min.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://autozapper.com.br/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: https://autozapper.com.br/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: https://autozapper.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://autozapper.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://autozapper.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://autozapper.com.br/wp-json/
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://autozapper.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Fautozapper.com.br%2F
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://autozapper.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Fautozapper.com.br%2F&format=xml
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://autozapper.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Fautozapper.com.br%2Fpoliticas-termos%2F
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://autozapper.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Fautozapper.com.br%2Fpoliticas-termos%2F&format=xml
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://autozapper.com.br/wp-json/wp/v2/pages/169
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-json\wp\v2\pages\169
+Content Type: application/json
+
+Uri: https://autozapper.com.br/wp-json/wp/v2/pages/389
+File Name: C:\Downloaded Web Sites\autozapper.com.br\wp-json\wp\v2\pages\389
+Content Type: application/json
+
+Uri: https://autozapper.com.br/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\autozapper.com.br\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://cdn.jsdelivr.net/npm/disable-devtool
+File Name: C:\Downloaded Web Sites\autozapper.com.br\npm\disable-devtool
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.7.2
+File Name: C:\Downloaded Web Sites\autozapper.com.br\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.7.2
+File Name: C:\Downloaded Web Sites\autozapper.com.br\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\autozapper.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://images.converteai.net/367db130-b348-4459-a84c-6eca2110a986/players/6744be2f112937000a994789/thumbnail.jpg
+File Name: C:\Downloaded Web Sites\autozapper.com.br\367db130-b348-4459-a84c-6eca2110a986\players\6744be2f112937000a994789\thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-10822972377
+File Name: C:\Downloaded Web Sites\autozapper.com.br\gtag\js
+Content Type: application/javascript
+
